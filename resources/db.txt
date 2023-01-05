@@ -1,0 +1,18 @@
+parent(tom, adam).
+parent(tom, helen).
+parent(sandra, adam).
+parent(andrew, mark).
+parent(judy, roger).
+parent(peter, daphne).
+man(tom).
+woman(sandra).
+man(adam).
+woman(helen).
+man(andrew).
+man(mark).
+woman(judy).
+man(roger).
+man(peter).
+woman(daphne).
+
+
